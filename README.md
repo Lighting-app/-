@@ -1,7 +1,7 @@
 # -
 python串口示波器上位机
 
-![软件面板](https://github.com/Lighting-app/-/blob/master/view.png)
+![软件面板](/view.png)
 
 make in 2020-5-17
 python---------3.6.8
